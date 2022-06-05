@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="Descripcion" content="Pagina web de Elsword">
+		<meta name="Keyword" content="Pagina web, Elsword">
+		<meta name="Autor" content="Angel Dario Santana Castillo">
+		<title> Elsword wiki Created by a fan</title>
+		<link rel="stylesheet" href="cabecera.css" style="font-size: 40px">
+	</head>
+
+	<body bgcolor="#EAEAEA">
+		<nav>
+			<ul>
+				<h1 style="font-size: 40px;"> Elsword wiki <subs style ="font-size: 15px;">Created by a fan</sub> </h1>
+				<a href="practica.html"> Inicio </a>
+				<a href="Historia.html"> Historia de los personajes</a>				
+			</ul>
+		</nav>
+		<br>
+		<h2 style="text-align:center;"><ins> Introduccion </ins></h2>
+		<br>
+		<center>
+		<img src="https://i1.wp.com/lutear.com/wp-content/uploads/2020/09/elsword-portada.jpg?fit=800%2C400&ssl=1" width="400" height="200"> </img>
+		</center>
+		<br>
+
+		<p style="text-align:justify; font-size: 20px; margin-left: 15px; margin-right: 15px;"> Elsword es un <b>MMORPG(Masive Multiplayer Online Rol Player Game) </b>el juego se centra en nuestro protagonista <strong>Elsword</strong> el cual es un caballero, este junto a su hermana<strong> Elesis </strong >y otros personajes deben ir recorriendo todo el mundo en busca de los fragmentos conocido como <strong>El</strong> los cuales contienen un enorme poder y vuelve sumamente poderoso a su portador.
+		Mientras avanzan se verán envueltos en distintas situaciones, muchos peligros etc,  también iran conociendo a personajes importantes a lo largo de su viajes </p><br>
+	
+
+		<h2 style="text-align: center;"><ins> Historia </ins></h2><br>
+
+		<h3 style="margin-left: 15px;"><ins> Todo empezó asi </ins></h3>	
+		<p style="text-align:justify left; font-size: 20px; margin-left: 15px; margin-right: 15px;"> Hace ahora mucho tiempo, el continente de Elios era un lugar inhóspito y desierto conocido como <strong>"la tierra dejada de la mano de Dios" </strong> y <strong>"el país de las tinieblas"</strong>, el territorio engendró aterradoras leyendas capaces de mantener alejada a cualquier persona. Pero un día se produjo un cambio asombroso. La tierra se hizo fértil, las plantas brotaron por doquier y la vida regresó al continente. El cambio vino de la mano de una enorme piedra preciosa cuyo brillante fulgor se impuso a la oscuridad. Las gentes se maravillaban ante el poder de aquella piedra, y se preguntaban de qué extraño material podría estar compuesta. Fascinados, decidieron bautizar el diamante azul con el nombre de <b>EL</b>. </p><br>
+
+		<h3 style="margin-left: 15px;"><ins> Pasaron varios siglos </ins></h3>
+		<p style="text-align:justify; font-size: 20px; margin-left: 15px; margin-right: 15px;"> Pasó el tiempo, se sucedieron las generaciones, y el oscuro pasado del continente alcanzó tintes de leyenda. Nadie hablaba ya de la tierra <strong>"dejada de la mano de Dios"</strong>, sino que se consideraba que Elios (pues ese era el nombre con el que habían bautizado el continente) era un territorio bendito. El poder de la gema azul corría por las venas de todas las criaturas de Elios. También los Nasod se nutrían de su energía. Los Nasod son criaturas biónicas, seres de hierro y tornillos a los que EL ha concedido la vida. Maltratados por los humanos, su sino era el de llevar a cabo los trabajos más tediosos y pesados.
+
+
+		Una sacerdotisa, a la que los habitantes de Elios conocían solo como <strong>"la dama de EL"</strong>, se encargaba de vigilar la piedra. Contaba para ello con la ayuda de ocho maestros. Pero uno de ellos, enamorado de la dama de EL, urdió un plan para robar el cristal y controlar así a la sacerdotisa. Cuando los otros maestros supieron de sus intenciones, alertados por un sirviente traidor, se produjo el cisma: algunos decidieron unirse al maestro levantisco, otros intentaron detenerle. En Elios estalló una cruenta guerra. La dama de EL intentó salvar el cristal, pero apenas lo rozó con la mano este explotó.</p><br>
+
+		<h3 style="margin-left: 15px;"><ins> El retorno de la era sombria </ins></h3>
+		<p style="text-align:justify; font-size: 20px; margin-left: 15px; margin-right: 15px;"> A consecuencia de la explosión, el área que rodeaba la torre quedó arrasada, y todas las criaturas que derivaban su energía del EL cayeron exánimes a tierra. El cambio obrado en los Nasod fue especialmente significativo: pese a no tratarse de seres vivos, desarrollaron una voluntad propia. Empezaron a moverse de manera autónoma, y resultó imposible controlarlos. En el incidente fallecieron los ocho maestros, y la piedra de EL quedó desmenuzada en incontables fragmentos, que la explosión desperdigó por todo el continente. A partir de aquel momento, la dama de EL desapareció como tragada por la tierra. Hoy, la vida es solo viable allí donde se encontraron fragmentos de EL. La gente fue asentándose en los lugares en los que aparecieron partes del EL; las restantes regiones decayeron hasta volver a ser el árido desierto que precedió a la llegada del EL. Y así, el que fuera gran reino se desmembró en pequeñas provincias independientes y autónomas. </p><br>
+	</body>
+
+</html>
